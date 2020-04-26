@@ -22,3 +22,9 @@
 * debugging
 ## Resources
 https://erdalpekel.de/?p=157
+
+## ROS VS CODE SETUP
+* CCACHE
+* Config WS to release and user pkgs to release
+* init COMPILER_OPTIONS etc
+
