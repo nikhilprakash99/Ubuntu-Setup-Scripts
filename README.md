@@ -7,24 +7,13 @@
 * sublime pkgs : material,allcomplete,sublimegit,sidebar
 * config files for applications
 * extra apps : kazam,autodesk
-* VS code
+* VS code : file icon, catkin-tools, ros
 * Gnomw Tweaks and themes
 
-## VS CODE
-## Plugins
-* file icon
-* C++ extension
-### To read
+### VS CODE To read
 * emmet for launch files
 * linting
 * intellisense
 * Tasks
 * debugging
-## Resources
-https://erdalpekel.de/?p=157
-
-## ROS VS CODE SETUP
-* CCACHE
-* Config WS to release and user pkgs to release
-* init COMPILER_OPTIONS etc
 
