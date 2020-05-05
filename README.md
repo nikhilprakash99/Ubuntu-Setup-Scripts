@@ -7,7 +7,7 @@
 * sublime pkgs : material,allcomplete,sublimegit,sidebar
 * config files for applications
 * extra apps : kazam,autodesk
-* VS code : file icon, catkin-tools, ros
+* VS code : file icon, ros
 * Gnomw Tweaks and themes
 
 ### VS CODE To read
